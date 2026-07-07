@@ -79,3 +79,8 @@ This uses integer division on the character count of the message, following the
 
 - All output logic is gated behind the Transmit button — no output appears until it's clicked.
 - Validation checks Name before Message, so if both fields are empty, the Name error takes priority.
+<img width="980" height="663" alt="Screenshot 2026-07-07 205804" src="https://github.com/user-attachments/assets/85500c58-ab4f-444d-a044-a2ae140e3d33" />
+<img width="942" height="531" alt="image" src="https://github.com/user-attachments/assets/917ab43f-db37-44e9-b1fe-4a77bf794d63" />
+<img width="1051" height="521" alt="Screenshot 2026-07-07 210028" src="https://github.com/user-attachments/assets/ebf5270f-a779-4d13-91b9-0697751497a3" />
+
+
